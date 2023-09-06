@@ -10,6 +10,10 @@
 .middlearea {
   max-height: 200px !important;
 }
+.rightpanel {
+  border: 0 !important;
+  background: #fff !important;
+}
 input.empty {
   font-family: FontAwesome;
   font-style: normal;
