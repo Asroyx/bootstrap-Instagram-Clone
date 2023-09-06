@@ -7,7 +7,9 @@
   background-repeat: no-repeat;
   background-size: 6%;
 }
-
+.middlearea {
+  max-height: 200px !important;
+}
 input.empty {
   font-family: FontAwesome;
   font-style: normal;
